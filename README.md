@@ -1,1 +1,0 @@
-# SwitchyOmega_Chromium
